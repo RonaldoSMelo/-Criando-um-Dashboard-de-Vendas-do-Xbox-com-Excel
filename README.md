@@ -81,5 +81,5 @@ O dashboard foi criado para fornecer uma visão completa das vendas de assinatur
 ---
 
 **Desenvolvido por**: Ronaldo S. Melo  
-**Data de Criação**: 2024  
+**Data de Criação**: 2025  
 **Versão**: 1.0
